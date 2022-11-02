@@ -1,5 +1,5 @@
 ---
-title: "Blaq"
+title: "BlaQuer"
 author: "Emmanuel Maduneme"
 date: "2022-11-02"
 output: html_document
